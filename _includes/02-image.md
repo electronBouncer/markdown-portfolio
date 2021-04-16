@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![High definition picture of a wheat field](https://wallpapercave.com/wp/wp1906821.jpg)
